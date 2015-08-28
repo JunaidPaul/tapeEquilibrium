@@ -21,7 +21,6 @@ var solution = function(a){
   }
 };
 
-// var a = [3, 1,2, 4, 3];
 var a = [5, 6, 2, 4, 1];
 answer = solution(a);
 console.log(answer);
